@@ -1,11 +1,12 @@
 name:                hashell
 version:             0.1.0.0
 github:              "quytelda/hashell"
-license:             BSD3
+license:             GPL-3.0-or-later
 author:              "Quytelda Kahja"
 maintainer:          "quytelda@tamalin.org"
 copyright:           "2018 Quytelda Kahja"
 
+license-file: LICENSE.txt
 extra-source-files:
 - README.md
 - ChangeLog.md
